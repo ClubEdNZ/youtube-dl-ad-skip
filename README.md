@@ -5,6 +5,6 @@ I have developed and tested it on linux (Debian) only.  It currently scans mp4 f
 
 It's pretty basic, but can be easily expanded to add more basic features, or even figure out the length of the ad on its own. But for me it works perfectly to skip the ads on TYT videos, which are so very annoying.
 
-It is currently set with a working playlist (TYT) and two advertisement screenshots. Just change the ad directory (where the ad png files are stored) and the working directory (where youtube-dl downloads your videos) and you're good to go.
+It is currently set with a working playlist (TYT) and some advertisement screenshots. Just change the ad directory (where the ad png files are stored) and the working directory (where youtube-dl downloads your videos) and you're good to go.
 
 This is free and unencumbered software released into the public domain.
